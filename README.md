@@ -9,3 +9,4 @@ Requirements:
 
 The dataset contains 200 images  in total. 120 images are as the training dataset and the remaining 80 images are as test
 dataset out of 200 images.
+Apart from train and test dataset, additional 15 images were dropped to the dataset in order to validate the model.
